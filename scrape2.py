@@ -1,6 +1,35 @@
 import wowhead
 
 
+SLOTS = {
+    wowhead.SLOT_HEAD,
+    wowhead.SLOT_NECK,
+    wowhead.SLOT_SHOULDER,
+    wowhead.SLOT_SHIRT,
+    wowhead.SLOT_CHEST,
+    wowhead.SLOT_WAIST,
+    wowhead.SLOT_LEGS,
+    wowhead.SLOT_FEET,
+    wowhead.SLOT_WRIST,
+    wowhead.SLOT_HANDS,
+    wowhead.SLOT_FINGER,
+    wowhead.SLOT_TRINKET,
+    wowhead.SLOT_ONEHAND,
+    wowhead.SLOT_SHIELD,
+    wowhead.SLOT_RANGED,
+    wowhead.SLOT_BACK,
+    wowhead.SLOT_TWOHAND,
+    wowhead.SLOT_BAG,
+    wowhead.SLOT_TABARD,
+    wowhead.SLOT_MAINHAND,
+    wowhead.SLOT_OFFHAND,
+    wowhead.SLOT_HELD_IN_OFFHAND,
+    wowhead.SLOT_AMMO,
+    wowhead.SLOT_THROWN,
+    wowhead.SLOT_RELIC,
+}
+
+
 def scrape_slot(slot, qualities):
     items = wowhead.query_items([slot], qualities)
     print('Found %u items.' % len(items))
@@ -24,7 +53,9 @@ def scrape_slot(slot, qualities):
     return items, buckets
 
 
-for slot, name in wowhead.SLOT_NAMES:
+for slot in SLOTS:
+    name = wowhead.SLOT_NAMES[slot]
+    print('Querying %s slot...' % name)
     items, buckets = scrape_slot(slot,
                                  [wowhead.QUALITY_GREEN,
                                   wowhead.QUALITY_RARE,

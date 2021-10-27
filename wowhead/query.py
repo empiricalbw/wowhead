@@ -82,9 +82,12 @@ def _parse_listviewitems(s):
     items = []
     s     = s[20:-1]
     j     = hjson.loads(s)
-    return [Item(i['id'], i['name'], i['quality'], i['level'],
-                 i['classs'], i['subclass'], i['slot'])
-            for i in j]
+    for i in j:
+        if 'level' not in i:
+            print("Item %u doesn't have ilvl." % i['id'])
+        items.append(Item(i['id'], i['name'], i['quality'], i.get('level', 1),
+                          i['classs'], i['subclass'], i['slot']))
+    return items
 
 
 def _parse_disenchanting_data(s):
