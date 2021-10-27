@@ -1,0 +1,404 @@
+iLvl 5 Quality 3
+iLvl 11 Quality 2
+    761 (42.5%) Lesser Magic Essence x 1
+    670 (37.5%) Lesser Magic Essence x 2
+    151 ( 8.4%) Strange Dust x 1
+    207 (11.6%) Strange Dust x 2
+iLvl 12 Quality 2
+    754 (40.2%) Lesser Magic Essence x 1
+    772 (41.1%) Lesser Magic Essence x 2
+    166 ( 8.8%) Strange Dust x 1
+    185 ( 9.9%) Strange Dust x 2
+iLvl 13 Quality 2
+    107 (49.3%) Lesser Magic Essence x 1
+     71 (32.7%) Lesser Magic Essence x 2
+     29 (13.4%) Strange Dust x 1
+     10 ( 4.6%) Strange Dust x 2
+iLvl 14 Quality 2
+    868 (39.0%) Lesser Magic Essence x 1
+    885 (39.7%) Lesser Magic Essence x 2
+    229 (10.3%) Strange Dust x 1
+    245 (11.0%) Strange Dust x 2
+iLvl 15 Quality 2
+    730 (39.1%) Lesser Magic Essence x 1
+    749 (40.1%) Lesser Magic Essence x 2
+    206 (11.0%) Strange Dust x 1
+    184 ( 9.8%) Strange Dust x 2
+iLvl 17 Quality 2
+     12 (33.3%) Greater Magic Essence x 1
+      6 (16.7%) Greater Magic Essence x 2
+     14 (38.9%) Strange Dust x 2
+      4 (11.1%) Strange Dust x 3
+iLvl 19 Quality 2
+    747 (35.5%) Greater Magic Essence x 1
+    852 (40.5%) Greater Magic Essence x 2
+    190 ( 9.0%) Strange Dust x 2
+    207 ( 9.8%) Strange Dust x 3
+    109 ( 5.2%) Small Glimmering Shard x 1
+iLvl 20 Quality 2
+      3 (23.1%) Greater Magic Essence x 1
+      6 (46.2%) Greater Magic Essence x 2
+      3 (23.1%) Strange Dust x 2
+      1 ( 7.7%) Strange Dust x 3
+iLvl 22 Quality 2
+    363 (30.9%) Greater Magic Essence x 1
+    393 (33.5%) Greater Magic Essence x 2
+     72 ( 6.1%) Strange Dust x 4
+     51 ( 4.3%) Strange Dust x 5
+     66 ( 5.6%) Strange Dust x 6
+    112 ( 9.5%) Small Glimmering Shard x 1
+     63 ( 5.4%) Lesser Astral Essence x 1
+     54 ( 4.6%) Lesser Astral Essence x 2
+iLvl 23 Quality 2
+    372 (29.2%) Greater Magic Essence x 1
+    411 (32.3%) Greater Magic Essence x 2
+     64 ( 5.0%) Strange Dust x 4
+     72 ( 5.7%) Strange Dust x 5
+     71 ( 5.6%) Strange Dust x 6
+    136 (10.7%) Small Glimmering Shard x 1
+     66 ( 5.2%) Lesser Astral Essence x 1
+     80 ( 6.3%) Lesser Astral Essence x 2
+iLvl 24 Quality 2
+    783 (33.1%) Greater Magic Essence x 1
+    774 (32.7%) Greater Magic Essence x 2
+    134 ( 5.7%) Strange Dust x 4
+    121 ( 5.1%) Strange Dust x 5
+    117 ( 4.9%) Strange Dust x 6
+    219 ( 9.2%) Small Glimmering Shard x 1
+    111 ( 4.7%) Lesser Astral Essence x 1
+    109 ( 4.6%) Lesser Astral Essence x 2
+iLvl 25 Quality 2
+    358 (34.8%) Greater Magic Essence x 1
+    358 (34.8%) Greater Magic Essence x 2
+     55 ( 5.3%) Strange Dust x 4
+     49 ( 4.8%) Strange Dust x 5
+     53 ( 5.2%) Strange Dust x 6
+     76 ( 7.4%) Small Glimmering Shard x 1
+     47 ( 4.6%) Lesser Astral Essence x 1
+     33 ( 3.2%) Lesser Astral Essence x 2
+iLvl 27 Quality 2
+    286 (34.7%) Greater Magic Essence x 1
+    258 (31.3%) Greater Magic Essence x 2
+     20 ( 2.4%) Greater Astral Essence x 1
+     36 ( 4.4%) Greater Astral Essence x 2
+     79 ( 9.6%) Soul Dust x 1
+     99 (12.0%) Soul Dust x 2
+     46 ( 5.6%) Large Glimmering Shard x 1
+iLvl 30 Quality 2
+    190 (31.8%) Greater Magic Essence x 1
+    214 (35.8%) Greater Magic Essence x 2
+     16 ( 2.7%) Greater Astral Essence x 1
+     28 ( 4.7%) Greater Astral Essence x 2
+     51 ( 8.5%) Soul Dust x 1
+     68 (11.4%) Soul Dust x 2
+     31 ( 5.2%) Large Glimmering Shard x 1
+iLvl 32 Quality 2
+      4 (36.4%) Lesser Mystic Essence x 1
+      7 (63.6%) Lesser Mystic Essence x 2
+iLvl 33 Quality 2
+     30 ( 5.0%) Soul Dust x 2
+     34 ( 5.6%) Soul Dust x 3
+     22 ( 3.6%) Soul Dust x 4
+     32 ( 5.3%) Soul Dust x 5
+    234 (38.7%) Lesser Mystic Essence x 1
+    219 (36.3%) Lesser Mystic Essence x 2
+     33 ( 5.5%) Small Glowing Shard x 1
+iLvl 33 Quality 3
+     19 (100.0%) Small Glowing Shard x 1
+iLvl 35 Quality 3
+      6 (100.0%) Small Glowing Shard x 1
+iLvl 37 Quality 2
+    324 (39.6%) Greater Mystic Essence x 1
+    304 (37.1%) Greater Mystic Essence x 2
+     83 (10.1%) Vision Dust x 1
+     70 ( 8.5%) Vision Dust x 2
+     38 ( 4.6%) Large Glowing Shard x 1
+iLvl 38 Quality 2
+iLvl 39 Quality 2
+    208 (34.7%) Greater Mystic Essence x 1
+    241 (40.2%) Greater Mystic Essence x 2
+     75 (12.5%) Vision Dust x 1
+     58 ( 9.7%) Vision Dust x 2
+     18 ( 3.0%) Large Glowing Shard x 1
+iLvl 39 Quality 3
+    523 (100.0%) Large Glowing Shard x 1
+iLvl 40 Quality 2
+    170 (39.9%) Greater Mystic Essence x 1
+    154 (36.2%) Greater Mystic Essence x 2
+     45 (10.6%) Vision Dust x 1
+     42 ( 9.9%) Vision Dust x 2
+     15 ( 3.5%) Large Glowing Shard x 1
+iLvl 42 Quality 2
+      1 ( 3.8%) Vision Dust x 3
+      1 ( 3.8%) Vision Dust x 4
+     15 (57.7%) Lesser Nether Essence x 1
+      8 (30.8%) Lesser Nether Essence x 2
+      1 ( 3.8%) Small Radiant Shard x 1
+iLvl 44 Quality 3
+    354 (100.0%) Small Radiant Shard x 1
+iLvl 45 Quality 2
+     43 ( 6.6%) Vision Dust x 2
+     32 ( 4.9%) Vision Dust x 3
+     34 ( 5.2%) Vision Dust x 4
+     34 ( 5.2%) Vision Dust x 5
+    233 (36.0%) Lesser Nether Essence x 1
+    249 (38.4%) Lesser Nether Essence x 2
+     23 ( 3.5%) Small Radiant Shard x 1
+iLvl 46 Quality 2
+     13 (35.1%) Greater Nether Essence x 1
+     15 (40.5%) Greater Nether Essence x 2
+      5 (13.5%) Dream Dust x 1
+      1 ( 2.7%) Dream Dust x 2
+      3 ( 8.1%) Large Radiant Shard x 1
+iLvl 47 Quality 3
+iLvl 48 Quality 2
+     10 (34.5%) Greater Nether Essence x 1
+     13 (44.8%) Greater Nether Essence x 2
+      3 (10.3%) Dream Dust x 1
+      2 ( 6.9%) Dream Dust x 2
+      1 ( 3.4%) Large Radiant Shard x 1
+iLvl 49 Quality 2
+      4 (40.0%) Greater Nether Essence x 1
+      5 (50.0%) Greater Nether Essence x 2
+      1 (10.0%) Dream Dust x 2
+iLvl 49 Quality 3
+iLvl 50 Quality 3
+     12 (100.0%) Large Radiant Shard x 1
+iLvl 51 Quality 3
+     11 (100.0%) Small Brilliant Shard x 1
+iLvl 52 Quality 2
+iLvl 52 Quality 3
+iLvl 53 Quality 3
+     79 (100.0%) Small Brilliant Shard x 1
+iLvl 55 Quality 2
+iLvl 56 Quality 2
+     39 (44.8%) Greater Eternal Essence x 1
+     30 (34.5%) Greater Eternal Essence x 2
+     11 (12.6%) Illusion Dust x 1
+      7 ( 8.0%) Illusion Dust x 2
+iLvl 57 Quality 2
+iLvl 57 Quality 3
+    343 (100.0%) Large Brilliant Shard x 1
+iLvl 58 Quality 2
+iLvl 59 Quality 3
+    325 (63.7%) Large Brilliant Shard x 1
+     74 (14.5%) Greater Eternal Essence x 1
+     76 (14.9%) Greater Eternal Essence x 2
+     18 ( 3.5%) Illusion Dust x 1
+     17 ( 3.3%) Illusion Dust x 2
+iLvl 60 Quality 3
+     43 (100.0%) Large Brilliant Shard x 1
+iLvl 61 Quality 3
+     36 (100.0%) Large Brilliant Shard x 1
+iLvl 62 Quality 2
+     23 ( 2.5%) Large Brilliant Shard x 1
+    328 (35.7%) Greater Eternal Essence x 2
+    357 (38.9%) Greater Eternal Essence x 3
+     52 ( 5.7%) Illusion Dust x 2
+     41 ( 4.5%) Illusion Dust x 3
+     59 ( 6.4%) Illusion Dust x 4
+     58 ( 6.3%) Illusion Dust x 5
+iLvl 62 Quality 3
+    227 (100.0%) Large Brilliant Shard x 1
+iLvl 63 Quality 3
+     23 (100.0%) Large Brilliant Shard x 1
+iLvl 63 Quality 4
+iLvl 64 Quality 4
+iLvl 65 Quality 3
+     40 (100.0%) Large Brilliant Shard x 1
+iLvl 65 Quality 4
+     11 ( 4.2%) Large Brilliant Shard x 2
+     18 ( 6.9%) Large Brilliant Shard x 3
+     26 (10.0%) Large Brilliant Shard x 4
+     97 (37.2%) Nexus Crystal x 1
+    109 (41.8%) Nexus Crystal x 2
+iLvl 66 Quality 3
+iLvl 66 Quality 4
+      8 ( 4.2%) Large Brilliant Shard x 2
+     11 ( 5.8%) Large Brilliant Shard x 3
+     17 ( 8.9%) Large Brilliant Shard x 4
+     76 (40.0%) Nexus Crystal x 1
+     78 (41.1%) Nexus Crystal x 2
+iLvl 68 Quality 3
+    410 (95.6%) Large Brilliant Shard x 1
+     19 ( 4.4%) Small Prismatic Shard x 1
+iLvl 68 Quality 4
+      2 ( 2.8%) Large Brilliant Shard x 3
+      6 ( 8.3%) Large Brilliant Shard x 4
+     34 (47.2%) Nexus Crystal x 1
+     30 (41.7%) Nexus Crystal x 2
+iLvl 69 Quality 4
+      3 ( 2.5%) Large Brilliant Shard x 2
+     10 ( 8.2%) Large Brilliant Shard x 3
+      7 ( 5.7%) Large Brilliant Shard x 4
+     51 (41.8%) Nexus Crystal x 1
+     51 (41.8%) Nexus Crystal x 2
+iLvl 70 Quality 4
+iLvl 71 Quality 4
+     20 (41.7%) Nexus Crystal x 1
+     28 (58.3%) Nexus Crystal x 2
+iLvl 75 Quality 4
+      1 ( 2.6%) Large Brilliant Shard x 2
+      1 ( 2.6%) Large Brilliant Shard x 3
+     18 (47.4%) Nexus Crystal x 1
+     18 (47.4%) Nexus Crystal x 2
+iLvl 76 Quality 4
+iLvl 77 Quality 4
+      4 (66.7%) Nexus Crystal x 1
+      2 (33.3%) Nexus Crystal x 2
+iLvl 78 Quality 4
+      3 (60.0%) Nexus Crystal x 1
+      2 (40.0%) Nexus Crystal x 2
+iLvl 80 Quality 2
+iLvl 81 Quality 2
+     22 ( 9.4%) Arcane Dust x 2
+     18 ( 7.7%) Arcane Dust x 3
+     98 (41.9%) Lesser Planar Essence x 2
+     91 (38.9%) Lesser Planar Essence x 3
+      5 ( 2.1%) Small Prismatic Shard x 1
+iLvl 81 Quality 4
+     10 (58.8%) Nexus Crystal x 1
+      7 (41.2%) Nexus Crystal x 2
+iLvl 83 Quality 4
+      3 (60.0%) Nexus Crystal x 1
+      2 (40.0%) Nexus Crystal x 2
+iLvl 84 Quality 2
+     34 (10.7%) Arcane Dust x 2
+     35 (11.0%) Arcane Dust x 3
+    116 (36.5%) Lesser Planar Essence x 2
+    121 (38.1%) Lesser Planar Essence x 3
+     12 ( 3.8%) Small Prismatic Shard x 1
+iLvl 84 Quality 4
+iLvl 85 Quality 3
+     78 (100.0%) Small Prismatic Shard x 1
+iLvl 87 Quality 2
+     71 (11.3%) Arcane Dust x 2
+     75 (11.9%) Arcane Dust x 3
+    233 (36.9%) Lesser Planar Essence x 2
+    232 (36.8%) Lesser Planar Essence x 3
+     20 ( 3.2%) Small Prismatic Shard x 1
+iLvl 88 Quality 3
+    105 (100.0%) Small Prismatic Shard x 1
+iLvl 89 Quality 4
+iLvl 90 Quality 2
+     94 (10.6%) Arcane Dust x 2
+     96 (10.8%) Arcane Dust x 3
+    343 (38.6%) Lesser Planar Essence x 2
+    328 (36.9%) Lesser Planar Essence x 3
+     28 ( 3.1%) Small Prismatic Shard x 1
+iLvl 91 Quality 3
+    375 (100.0%) Small Prismatic Shard x 1
+iLvl 93 Quality 2
+    108 (11.1%) Arcane Dust x 2
+    105 (10.8%) Arcane Dust x 3
+    355 (36.6%) Lesser Planar Essence x 2
+    378 (39.0%) Lesser Planar Essence x 3
+     23 ( 2.4%) Small Prismatic Shard x 1
+iLvl 94 Quality 3
+      2 ( 2.1%) Nexus Crystal x 1
+     94 (97.9%) Small Prismatic Shard x 1
+iLvl 96 Quality 2
+     60 (10.5%) Arcane Dust x 2
+     67 (11.7%) Arcane Dust x 3
+    226 (39.4%) Lesser Planar Essence x 2
+    200 (34.9%) Lesser Planar Essence x 3
+     20 ( 3.5%) Small Prismatic Shard x 1
+iLvl 97 Quality 3
+     41 (100.0%) Small Prismatic Shard x 1
+iLvl 99 Quality 2
+     42 ( 7.0%) Arcane Dust x 2
+     79 (13.2%) Arcane Dust x 3
+    251 (42.0%) Lesser Planar Essence x 2
+    214 (35.8%) Lesser Planar Essence x 3
+     11 ( 1.8%) Small Prismatic Shard x 1
+iLvl 100 Quality 3
+    188 (100.0%) Large Prismatic Shard x 1
+iLvl 100 Quality 4
+iLvl 102 Quality 2
+     51 ( 6.7%) Arcane Dust x 2
+     46 ( 6.1%) Arcane Dust x 3
+     42 ( 5.6%) Arcane Dust x 4
+     31 ( 4.1%) Arcane Dust x 5
+    276 (36.5%) Greater Planar Essence x 1
+    274 (36.2%) Greater Planar Essence x 2
+     36 ( 4.8%) Large Prismatic Shard x 1
+iLvl 103 Quality 3
+    156 (99.4%) Large Prismatic Shard x 1
+      1 ( 0.6%) Void Crystal x 1
+iLvl 105 Quality 2
+     48 ( 5.5%) Arcane Dust x 2
+     37 ( 4.3%) Arcane Dust x 3
+     50 ( 5.8%) Arcane Dust x 4
+     54 ( 6.2%) Arcane Dust x 5
+    316 (36.5%) Greater Planar Essence x 1
+    338 (39.0%) Greater Planar Essence x 2
+     23 ( 2.7%) Large Prismatic Shard x 1
+iLvl 105 Quality 4
+     15 (50.0%) Void Crystal x 1
+     15 (50.0%) Void Crystal x 2
+iLvl 107 Quality 4
+iLvl 108 Quality 2
+     53 ( 5.9%) Arcane Dust x 2
+     59 ( 6.6%) Arcane Dust x 3
+     55 ( 6.2%) Arcane Dust x 4
+     39 ( 4.4%) Arcane Dust x 5
+    342 (38.3%) Greater Planar Essence x 1
+    320 (35.8%) Greater Planar Essence x 2
+     26 ( 2.9%) Large Prismatic Shard x 1
+iLvl 109 Quality 3
+     35 (100.0%) Large Prismatic Shard x 1
+iLvl 111 Quality 2
+     74 ( 4.8%) Arcane Dust x 2
+     91 ( 5.9%) Arcane Dust x 3
+     72 ( 4.7%) Arcane Dust x 4
+     73 ( 4.7%) Arcane Dust x 5
+    560 (36.4%) Greater Planar Essence x 1
+    609 (39.6%) Greater Planar Essence x 2
+     59 ( 3.8%) Large Prismatic Shard x 1
+iLvl 112 Quality 3
+    164 (98.8%) Large Prismatic Shard x 1
+      2 ( 1.2%) Void Crystal x 1
+iLvl 114 Quality 2
+     93 ( 5.8%) Arcane Dust x 2
+     93 ( 5.8%) Arcane Dust x 3
+     66 ( 4.1%) Arcane Dust x 4
+     90 ( 5.6%) Arcane Dust x 5
+    626 (39.1%) Greater Planar Essence x 1
+    594 (37.1%) Greater Planar Essence x 2
+     41 ( 2.6%) Large Prismatic Shard x 1
+iLvl 115 Quality 3
+   1403 (99.9%) Large Prismatic Shard x 1
+      1 ( 0.1%) Void Crystal x 1
+iLvl 115 Quality 4
+    111 (51.6%) Void Crystal x 1
+    104 (48.4%) Void Crystal x 2
+iLvl 117 Quality 2
+     84 ( 4.6%) Arcane Dust x 2
+     89 ( 4.9%) Arcane Dust x 3
+    101 ( 5.5%) Arcane Dust x 4
+     92 ( 5.0%) Arcane Dust x 5
+    735 (40.1%) Greater Planar Essence x 1
+    679 (37.0%) Greater Planar Essence x 2
+     53 ( 2.9%) Large Prismatic Shard x 1
+iLvl 120 Quality 2
+     44 ( 4.3%) Arcane Dust x 2
+     69 ( 6.7%) Arcane Dust x 3
+     53 ( 5.2%) Arcane Dust x 4
+     62 ( 6.1%) Arcane Dust x 5
+    395 (38.6%) Greater Planar Essence x 1
+    370 (36.1%) Greater Planar Essence x 2
+     31 ( 3.0%) Large Prismatic Shard x 1
+iLvl 120 Quality 4
+iLvl 123 Quality 4
+iLvl 125 Quality 4
+     32 (45.7%) Void Crystal x 1
+     38 (54.3%) Void Crystal x 2
+iLvl 132 Quality 4
+iLvl 134 Quality 4
+iLvl 136 Quality 4
+iLvl 138 Quality 4
+iLvl 141 Quality 4
+iLvl 146 Quality 4
+iLvl 151 Quality 4
+iLvl 154 Quality 4
+iLvl 164 Quality 4

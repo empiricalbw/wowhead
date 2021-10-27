@@ -1,0 +1,58 @@
+iLvl 52 Quality 2
+      4 (15.4%) Dream Dust x 2
+      2 ( 7.7%) Dream Dust x 3
+      5 (19.2%) Dream Dust x 4
+      9 (34.6%) Dream Dust x 5
+      2 ( 7.7%) Lesser Eternal Essence x 1
+      4 (15.4%) Lesser Eternal Essence x 2
+iLvl 57 Quality 3
+    110 (100.0%) Large Brilliant Shard x 1
+iLvl 62 Quality 3
+iLvl 65 Quality 3
+    597 (99.7%) Large Brilliant Shard x 1
+      2 ( 0.3%) Nexus Crystal x 1
+iLvl 78 Quality 4
+      9 (50.0%) Nexus Crystal x 1
+      9 (50.0%) Nexus Crystal x 2
+iLvl 79 Quality 3
+iLvl 83 Quality 4
+      7 (70.0%) Nexus Crystal x 1
+      3 (30.0%) Nexus Crystal x 2
+iLvl 88 Quality 3
+    117 (100.0%) Small Prismatic Shard x 1
+iLvl 91 Quality 3
+iLvl 93 Quality 2
+     17 (41.5%) Arcane Dust x 2
+     15 (36.6%) Arcane Dust x 3
+      7 (17.1%) Lesser Planar Essence x 2
+      1 ( 2.4%) Lesser Planar Essence x 3
+      1 ( 2.4%) Small Prismatic Shard x 1
+iLvl 94 Quality 3
+      1 ( 2.5%) Nexus Crystal x 1
+     39 (97.5%) Small Prismatic Shard x 1
+iLvl 97 Quality 3
+     66 (100.0%) Small Prismatic Shard x 1
+iLvl 103 Quality 3
+     13 (100.0%) Large Prismatic Shard x 1
+iLvl 106 Quality 3
+      6 (100.0%) Large Prismatic Shard x 1
+iLvl 110 Quality 4
+      8 (72.7%) Void Crystal x 1
+      3 (27.3%) Void Crystal x 2
+iLvl 112 Quality 3
+    405 (99.5%) Large Prismatic Shard x 1
+      2 ( 0.5%) Void Crystal x 1
+iLvl 115 Quality 3
+    421 (99.3%) Large Prismatic Shard x 1
+      3 ( 0.7%) Void Crystal x 1
+iLvl 115 Quality 4
+      1 ( 0.2%) Large Prismatic Shard x 1
+    223 (45.1%) Void Crystal x 1
+    270 (54.7%) Void Crystal x 2
+iLvl 128 Quality 4
+     22 (59.5%) Void Crystal x 1
+     15 (40.5%) Void Crystal x 2
+iLvl 136 Quality 4
+iLvl 141 Quality 4
+iLvl 146 Quality 4
+iLvl 159 Quality 4
